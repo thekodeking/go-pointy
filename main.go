@@ -40,6 +40,3 @@ func main() {
 	// Starting the Server ...
 	handleRequests()
 }
-
-// Curl Command to test Post: // curl -X POST http://localhost:8080/posts -d "{\"post_id\":\"96453\", \"user_id\":\"648390\", \"caption\": \"Go Lang by Google\", \"image_url\":\"imgur.com/a/Ffkso2\", \"time_stamp\": \"2021/10/09 21:29:40 2021-10-09 21:29:40.8956683 +0530 IST m=+0.006981001\"}"
-// Curl Command to test User: curl -X POST http://localhost:8080/users -d "{\"user_id\":\"964533\", \"name\": \"Alex\", \"email\": \"alex@gmail.com\", \"password\": \"google\"}"

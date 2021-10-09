@@ -1,1 +1,1 @@
-"# go-pointy" 
+# go-pointy
